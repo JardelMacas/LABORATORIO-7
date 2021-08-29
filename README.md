@@ -16,15 +16,25 @@ Objetivos Especificos
 
 **2. MARCO TEORICO**
 
+
+
 **3. EXPLICACION DEL PROCEDIMIENTO**
+
+
 
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+
+
 **Resolucion de Incisos y Tablas de Resultados**
+
 
 **Calculo de Errores**
 
+
 **5.VIDEO**
+
+
 
 **6. CONCLUSIONES**
 
