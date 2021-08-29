@@ -18,7 +18,7 @@ Objetivos Especificos
 
 **3. EXPLICACION DEL PROCEDIMIENTO**
 
-**4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR*
+**4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 **Resolucion de Incisos y Tablas de Resultados**
 
