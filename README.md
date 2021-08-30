@@ -16,7 +16,7 @@ Objetivos Especificos
 
 **2. MARCO TEORICO**
 
-
+![RESUMEN_LAB_7](https://user-images.githubusercontent.com/84453441/131297789-368ada5b-2165-47d5-ba09-80c4b73ece9e.png)
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
