@@ -140,8 +140,18 @@ Para 100 Hz:
 
 **Resolucion de Incisos y Tablas de Resultados**
 
+![imagen3](https://user-images.githubusercontent.com/84357979/131347951-706dfa42-c7c7-4f16-8043-fe292d9fe3ad.png)
+
+![imagen4](https://user-images.githubusercontent.com/84357979/131348205-9712c679-aa90-47d5-a1e1-249bf6d6b6e0.png)
+
+![imagen5](https://user-images.githubusercontent.com/84357979/131348263-dddd057b-c3de-4503-9199-7e48a81cc0dc.png)
+
 
 **Calculo de Errores**
+
+![imagen6](https://user-images.githubusercontent.com/84357979/131348291-be48a8c1-c674-4a27-830c-3a39f691573e.png)
+
+En esta práctica no sería de mucha ayuda tomar en cuenta el porcentaje de error, debido a que los multímetros utilizan una técnica llamada “promedios de onda” la cual varia su precisión dependiendo del dispositivo, en el laboratorio virtual que se implementó el proyecto es un medidor que responde al promedio en lugar de un rms verdadero, los valores que nos saldrían versus los valores de rms reales varían demasiado, produciendo un margen alto de error.
 
 
 **5.VIDEO**
@@ -150,9 +160,13 @@ Para 100 Hz:
 
 **6. CONCLUSIONES**
 
-*
-*
-*
+*  La bobina y el capacitor se oponen al cambio inmediato del voltaje y la corriente respectivamente, generando un voltaje o corriente inducido para producir dicho efecto, en corriente directa este efecto dura un lapso reducido de tiempo hasta que entra en “estado estable”.
+
+*  La bobina y el capacitor están en un constante proceso de carga y descarga por lo que el voltaje mostrado en el osciloscopio se mantiene durante un largo periodo de tiempo.
+
+*  Las bobinas y capacitores tienen la misma cantidad de inductancia y capacitancia permitiéndoles así conectarse en paralelo, de otro modo generarían fuentes que violan las leyes de Kirchhoff.
+
+*  El osciloscopio utilizado en la practica nos muestra la forma de onda sinusoidal de una corriente alterna y las fuentes nos permiten alternar entre voltajes pico, pico-pico y rms. Los multímetros suelen tener dificultad para dar un valor fijo de corriente debido a su fabricación.
 
 **7. Bibliografia**
 
