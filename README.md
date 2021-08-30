@@ -147,6 +147,26 @@ Para 100 Hz:
 
 ![imagen5](https://user-images.githubusercontent.com/84357979/131348263-dddd057b-c3de-4503-9199-7e48a81cc0dc.png)
 
+Preguntas de la Guia
+
+1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+El capacitor no trabaja en corriente continua ya que al hacerlo se carga completamente, por lo que llega a convertirse en un circuito abierto, mientras que la bobina se comporta como un corto circuito dejando pasar la corriente a través de ella sin ninguna oposición.
+
+2. ¿Cómo se comporta la bobina y el capacitor en corriente alterna?
+
+En corriente alterna, el condensador se carga y descarga tantas veces como varíe la tensión. En una corriente alterna de 50 Hz, por ejemplo, la tensión es positiva 50 veces por segundo y negativa otras 50 veces, por lo que cambia 100 veces cada segundo.
+La bobina o inductor es un elemento que reacciona contra los cambios en la corriente a través de él, generando un voltaje que se opone al voltaje aplicado y es proporcional al cambio de la corriente.
+
+3. ¿Qué cree usted que ocurriría con el Voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+Recordando que el capacitor almacena voltaje para después descargarlo y el inductor almacena corriente para después descargarla, enfrentaríamos el mismo problema de las fuentes de voltaje y corriente conectados en paralelo, que violaban las leyes de Kirchhoff en capítulos anteriores¡, por lo que no sería correcto, realizar esta práctica.
+
+4. ¿Que son valores eficaces de voltaje y corriente?
+
+Son valores equivalentes de CD (Corriente directa), expresa cuantos volts o amperes de cd equivalen a una forma de onda que varía con el tiempo en términos de su capacidad para producir potencia promedio. Los valores efectivos dependen de la forma de onda.
+
+
 
 **Calculo de Errores**
 
