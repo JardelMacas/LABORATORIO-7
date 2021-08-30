@@ -157,6 +157,9 @@ En esta práctica no sería de mucha ayuda tomar en cuenta el porcentaje de erro
 
 **5.VIDEO**
 
+Link del Video: https://www.youtube.com/watch?v=d26HWi0OIyk
+
+[![Circuitos Eléctricos || Guía de Laboratorio 7|| Capacitores e Inductores](https://img.youtube.com/vi/ d26HWi0OIyk/0.jpg)](https://youtu.be/ d26HWi0OIyk)
 
 
 **6. CONCLUSIONES**
