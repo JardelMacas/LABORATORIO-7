@@ -18,7 +18,27 @@ Objetivos Especificos
 
 
 
-**3. EXPLICACION DEL PROCEDIMIENTO**
+**3. EXPLICACIÓN DEL PROCEDIMIENTO**
+
+1 . Dando inicio a la práctica correspondiente al laboratorio #7 con los temas de inductor y capacitor, en esta ocasión verificaremos el comportamiento de la bobina y capacitor en circuitos DC y AC. Fue necesario el uso de un nuevo simulador (DCACLAB) el cual nos permite visualizar con una mayor precisión el valor medido de algunos instrumentos como por ejemplo el oscilador.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
