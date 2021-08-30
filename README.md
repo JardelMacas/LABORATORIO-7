@@ -6,13 +6,14 @@ AUTORES: JERSON CHAMBA-JARDEL MACAS-ESTEFANY RAMOS
 
 Objetivos Generales
 
-*
+* Caracterizar el tema de capacitores e inductores de forma teorica y experimental.
 
 Objetivos Especificos
 
-*
-*
-*
+* Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+* Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+* Verificar las combinaciones serie y paralelo de bobinas y capacitores
+*  Familiarizarse con el uso de instrumentos de medida.
 
 **2. MARCO TEORICO**
 
