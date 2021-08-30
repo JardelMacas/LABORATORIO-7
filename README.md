@@ -147,7 +147,7 @@ Para 100 Hz:
 
 ![imagen5](https://user-images.githubusercontent.com/84357979/131348263-dddd057b-c3de-4503-9199-7e48a81cc0dc.png)
 
-Preguntas de la Guia
+**Preguntas de la Guía**
 
 1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
